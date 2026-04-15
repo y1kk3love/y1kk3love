@@ -1,7 +1,6 @@
 # 김선민 / Sunmin KIM
 
 Unity 클라이언트 개발자입니다.  
-META · PICO 기반 VR/MR 게임을 만들고 있어요.
 
 **[🔗 포트폴리오](https://y1kk3love.github.io)**
 

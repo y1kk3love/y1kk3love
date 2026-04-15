@@ -15,4 +15,3 @@ Unity 클라이언트 개발자입니다.
 
 - [📚 Book Study](./book-study/README.md) — 챕터별 독서 노트
 - [🧠 Knowledge](./knowledge/README.md) — 공부하면서 정리한 기술 노트
-- [📝 Interview](./interview/README.md) — 면접 대비 핵심 기술 정리

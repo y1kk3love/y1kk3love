@@ -15,3 +15,4 @@ META · PICO 기반 VR/MR 게임을 만들고 있어요.
 ## 기록
 
 - [📚 Book Study](./book-study/README.md) — 챕터별 독서 노트
+- [🧠 Knowledge](./knowledge/README.md) — 공부하면서 정리한 기술 노트

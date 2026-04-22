@@ -27,6 +27,7 @@
 - [C# 메모리 관리 및 GC](./csharp-memory-gc.md)
 - [C# 문법](./csharp-grammar/README.md)
 - [LINQ](./linq.md) — 컬렉션 쿼리 연산 통합
+- [랜덤 확률 시스템](./random-probability.md) — Shuffle Bag, Pity System, 모듈로 편향 제거
 
 ### 아키텍처
 
